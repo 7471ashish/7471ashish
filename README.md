@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Ashish Bansal 👋
 
-<!--
-**7471ashish/7471ashish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI/ML Developer | Agentic AI Engineer
 
-Here are some ideas to get you started:
+I'm interested in building intelligent systems using LLMs, Agentic AI,
+and modern AI engineering frameworks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Work With
+
+- Python
+- C++
+- LangChain
+- LangGraph
+- Agentic AI
+- LLM Applications
+- RAG
+- AI Automation
+- FastAPI
+- Git & GitHub
+
+## 🧠 Currently Learning
+
+- Advanced Agentic AI architectures
+- LangGraph
+- Deep Agents
+- Tool Calling
+- Memory & State Management
+- Multi-Agent Systems
+
+## 📌 Featured Projects
+
+### 🤖 Agentic AI Projects
+Building AI agents with planning, tools, memory and workflow orchestration.
+
+### 🌐 CA Website
+Production web application for a Chartered Accountant.
+
+## 🛠️ Technologies
+
+Python • C++ • LangChain • LangGraph • FastAPI • Git • GitHub
+
+## 📫 Connect With Me
+
+- GitHub: 7471ashish
