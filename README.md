@@ -1,9 +1,9 @@
 # Hi, I'm Ashish Bansal 👋
 
-### AI/ML Developer | Agentic AI Engineer
+### AI Developer | Agentic AI Engineer | Web Developer
 
-I'm interested in building intelligent systems using LLMs, Agentic AI,
-and modern AI engineering frameworks.
+I'm interested in building intelligent AI systems, agentic workflows,
+LLM-powered applications, and modern web applications.
 
 ## 🚀 What I Work With
 
@@ -16,28 +16,31 @@ and modern AI engineering frameworks.
 - RAG
 - AI Automation
 - FastAPI
+- Web Development
 - Git & GitHub
 
 ## 🧠 Currently Learning
 
-- Advanced Agentic AI architectures
+- Advanced Agentic AI Architectures
 - LangGraph
 - Deep Agents
 - Tool Calling
 - Memory & State Management
 - Multi-Agent Systems
+- AI-powered Web Applications
 
 ## 📌 Featured Projects
 
 ### 🤖 Agentic AI Projects
-Building AI agents with planning, tools, memory and workflow orchestration.
+Building intelligent agents using LLMs, tools, memory,
+planning, and workflow orchestration.
 
-### 🌐 CA Website
-Production web application for a Chartered Accountant.
+### 🌐 Web Development
+Building modern, responsive, and production-ready web applications.
 
 ## 🛠️ Technologies
 
-Python • C++ • LangChain • LangGraph • FastAPI • Git • GitHub
+Python • C++ • LangChain • LangGraph • FastAPI • Web Development • Git • GitHub
 
 ## 📫 Connect With Me
 
